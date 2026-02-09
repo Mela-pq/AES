@@ -1,7 +1,7 @@
 
 #   AES DEMO - SubBytes, ShiftRows,
 #   MixColumns y AddRoundKey
-# programming created by Josue  , Melani , mateo
+# programming created by Josue  , Melani , Mateo
 
 
 # ---------- PARTE 1: SUBBYTES ----------
